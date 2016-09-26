@@ -1,0 +1,34 @@
+<!-- 
+declaration:
+	<servlet>
+		<display-name>HelloWorldServlet</display-name>
+		<servlet-name>HelloWorldServlet</servlet-name>
+		<servlet-class>your.package.HelloWorldServlet</servlet-class>
+	</servlet>
+	
+	
+	<servlet-mapping>
+		<servlet-name>HelloWorldServlet</servlet-name>
+		<url-pattern>/helloWorld</url-pattern>
+	</servlet-mapping>
+	
+
+ -->
+
+
+<web-app>
+
+<!-- Servlets -->
+
+<servlet>
+
+</servlet>
+
+<!-- Servlet Mapping -->
+
+<servlet-mapping>
+
+</servlet-mapping>
+
+
+</web-app>
